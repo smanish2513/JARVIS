@@ -1,0 +1,8 @@
+node_modules
+.secrets/
+.env*
+.eve
+.next
+.output
+.nitro
+dist
